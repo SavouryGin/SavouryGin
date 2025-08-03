@@ -10,6 +10,7 @@ Currently based in Belgrade 🇷🇸, I enjoy building reliable, scalable, and p
 - Optimize performance and accessibility
 - Integrate with CRMs, CMSs, and internal APIs
 - Write clean, tested, and maintainable code
+- Develop my open source project [Chop Logic](https://github.com/ChopLogic)
 
 ### 🔧 Tech Highlights
 
